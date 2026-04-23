@@ -1,0 +1,8 @@
+streamlit==1.32.2
+streamlit-webrtc==0.47.6
+av==11.0.0
+opencv-python-headless==4.9.0.80
+mediapipe==0.10.11
+tensorflow-cpu==2.15.1
+numpy==1.26.4
+gTTS==2.5.1
