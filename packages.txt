@@ -3,3 +3,5 @@ libsm6
 libxext6
 libxrender1
 libgomp1
+pkg-config
+ffmpeg
