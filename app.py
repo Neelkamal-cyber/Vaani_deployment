@@ -169,7 +169,7 @@ div[data-testid="stButton"] button:hover {
 MODEL_PATH        = "vaani_endec_deploy.h5"
 LABEL_MAP_FILE    = "label_map.json"
 SEQUENCE_LENGTH   = 60
-CONFIDENCE_THRESH = 0.90
+CONFIDENCE_THRESH = 0.95
 MAX_SENTENCE      = 8
 
 # ─────────────────────────────────────────────────────────────────
